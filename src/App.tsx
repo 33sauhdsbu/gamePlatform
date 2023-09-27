@@ -1,6 +1,7 @@
 import React from "react";
 export const App = () => {
 
-return <>123</>
+return <>
+  </>
 }
 export default App;
